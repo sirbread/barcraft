@@ -63,6 +63,4 @@ This project is a Minecraft-inspired sandbox game built using the [Ursina Engine
 
 
 ## Acknowledgments
-
-- [Ursina Engine Documentation](https://www.ursinaengine.org/documentation.html) for detailed API references.
 - Inspiration from Mojang's *Minecraft*.
