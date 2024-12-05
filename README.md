@@ -1,5 +1,8 @@
 # barcraft
 "real, 3D Minecraft, purely in python"
+**This project is based off a _similar_ tutorial to the following link, as the original tutorial is now not availible:** <br>
+[Tutorial](http://www.codingwithruss.com/ursina/minecraft-in-python-3d-game-tutorial/) <br>
+Side note, the old tutorial did have download links to CC0 assets which is where I obtained the assets for this game. :) <br>
 
 This project is a Minecraft-inspired sandbox game built using the [Ursina Engine](https://www.ursinaengine.org/). The game allows players to explore a generated flat area, place and destroy blocks, and interact with objects like a mini solar system.
 
