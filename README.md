@@ -1,5 +1,5 @@
 # barcraft
-"real, 3D Minecraft, purely in python"
+"real, 3D Minecraft, purely in python" <br>
 **This project is based off a _similar_ tutorial to the following link, as the original tutorial is now not availible:** <br>
 [Tutorial](http://www.codingwithruss.com/ursina/minecraft-in-python-3d-game-tutorial/) <br>
 Side note, the old tutorial did have download links to CC0 assets which is where I obtained the assets for this game. :) <br>
